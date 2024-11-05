@@ -1,7 +1,6 @@
 # [DST] Auto Switch Weapon and Cane(Updated)
 
 Link: [Steam Workshop](https://steamcommunity.com/sharedfiles/itemedittext/?id=3225478506)  
-[Original Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2781167240)  
 
 Automatically switch weapon and cane from the item slot.  
 The weapon slot can be set and marked.  
